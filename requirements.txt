@@ -3,7 +3,7 @@ coverage==5.5
 Flask==1.1.0
 Flask-Login==0.5.0
 Flask-SQLAlchemy==2.5.1
-idna==2.8
+idna==3.20
 iniconfig==1.1.1
 isodate==0.6.0
 itsdangerous==1.1.0
